@@ -1,0 +1,13 @@
+{
+  "label": {
+    "settings": {
+      "title": "settings-page setting"
+    },
+    "action": {
+      "title": "settings-page - How to extend the ui ?"
+    },
+    "appsAccordion": {
+      "title": "settings-page"
+    }
+  }
+}
